@@ -7,4 +7,4 @@ Muhib's Node.js authentication project is a web application designed for user au
 3) Password Reset: Users have the option to reset or change their passwords if needed. To reset the password, users need to provide their Name, old password, and the new password they wish to set. The system ensures the security of password changes by encrypting and updating the new password in the database.
 # Techniques:
 This Node.js authentication project is developed using Node.js, EJS for templating, CSS, JavaScript, and Bootstrap for responsive design, ensuring compatibility across all devices. To run the project locally, you can use the following npm script:
-You can access the live site at https://muhib-s-nodejs-authentication.onrender.com/.
+You can access the live site at https://muhib-s-nodejs-authentication-1.onrender.com/.
